@@ -1,7 +1,0 @@
-{
- "FlipAngle": 180.0,
- "PulseSequenceType": "TurboRARET2",
-  "EchoTime": 0.088,
- "RepetitionTime": 6,
- "Manufacturer": "Bruker BioSpin MRI GmbH"
-}
