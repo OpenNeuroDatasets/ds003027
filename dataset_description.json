@@ -1,13 +1,17 @@
 {
     "BIDSVersion": "1.0.1",
-    "Name": "individual_dMRI_fMRI",
+    "Name": "plp_nf1_dMRI_fMRI",
     "Authors": [
-        "Eyal Bergmann",
-        "Itamar Kahn"
+        "Jad Asleh",
+        "Ben Shofty",
+	"Itamar Kahn"
     ],
     "Funding": [
-        ""
+        "This work was supported by the Israel Science Foundation (770/17), and the Adelis Foundation (to I.K.), and the National Institutes of Health (1R01NS091037; to N.R. and I.K.)."
     ],
-    "Acknowledgements": "We thank the Technion Biological Core Facilities and Edith Suss-Toby for assistance with MRI and the Technion Preclinical Research Authority for assistance with animal care. This work was supported by the Israel Science Foundation (770/17, to I.K.), the Adelis Foundation (to I.K.) and the NIH (1R01 NS091037, to N.R. and I.K.).",
-    "License": "CC0"
+    "DatasetDOI": "none",
+    "License": "CC0",
+    "ReferencesAndLinks": [],
+    "Acknowledgements": "We thank the Technion’s Biological Core Facilities and Edith Suss-Toby for her assistance with MRI, and the Technion Preclinical Research Authority for assistance with animal care.",
+    "HowToAcknowledge": "Please cite the paper: Asleh, J., Shofty, B., Cohen, N., Kavushansky, A., Lopez-Juarez, A., Constantini, S., ... & Kahn, I. (2020). Brain-wide structural and functional disruption in mice with oligodendrocyte specific Nf1 deletion is rescued by inhibition of NOS. bioRxiv."
 }
