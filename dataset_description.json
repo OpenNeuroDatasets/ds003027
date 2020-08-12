@@ -1,4 +1,5 @@
-{   "BIDSVersion": "1.0.1",
+{
+    "BIDSVersion": "1.0.1",
     "Name": "individual_dMRI_fMRI",
     "Authors": [
         "Eyal Bergmann",
@@ -6,5 +7,7 @@
     ],
     "Funding": [
         ""
-    ]
+    ],
+    "Acknowledgements": "We thank the Technion Biological Core Facilities and Edith Suss-Toby for assistance with MRI and the Technion Preclinical Research Authority for assistance with animal care. This work was supported by the Israel Science Foundation (770/17, to I.K.), the Adelis Foundation (to I.K.) and the NIH (1R01 NS091037, to N.R. and I.K.).",
+    "License": "CC0"
 }
