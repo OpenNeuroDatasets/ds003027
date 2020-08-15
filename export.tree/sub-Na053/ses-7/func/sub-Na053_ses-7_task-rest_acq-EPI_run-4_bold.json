@@ -1,0 +1,8 @@
+{
+ "FlipAngle": 90.0,
+ "PulseSequenceType": "SE-EPI",
+ "TaskName": "rest",
+ "EchoTime": 0.018398,
+ "RepetitionTime": 2.5,
+ "Manufacturer": "Bruker BioSpin MRI GmbH"
+}
