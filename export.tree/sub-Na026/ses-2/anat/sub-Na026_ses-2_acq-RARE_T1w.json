@@ -1,0 +1,7 @@
+{
+ "FlipAngle": 180.0,
+ "PulseSequenceType": "RARET1",
+ "EchoTime": 0.085,
+ "RepetitionTime": 2.5,
+ "Manufacturer": "Bruker BioSpin MRI GmbH"
+}
